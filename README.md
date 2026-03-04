@@ -86,11 +86,14 @@ The RTL schematic shows the synthesized hardware structure generated from the Ve
 
 Power, timing, area, and gate-level synthesis reports are available in the Synthesis_Reports folder.
 
+---
+
 ## 📄 Project Report
 
 📥 **Download Full Report:**
 [PIPLINED_PROCESSOR_REPORT(PDF)](Project_Report/PIPELINED_PROCESSOR_REPORT.pdf)
-Pipeline Processor Simulation Report (PDF)
+
+---
 
 ## ✅ Results
 
