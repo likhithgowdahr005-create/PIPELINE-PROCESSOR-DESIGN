@@ -90,7 +90,7 @@ Power, timing, area, and gate-level synthesis reports are available in the Synth
 
 ## 📄 Project Report
 
-📥 **Download Full Report:**
+📥 **Download Full Report:** 
 [PIPELINED_PROCESSOR_REPORT_(PDF)](Project_Report/PIPELINED_PROCESSOR_REPORT.pdf)
 
 ---
