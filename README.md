@@ -89,7 +89,7 @@ Power, timing, area, and gate-level synthesis reports are available in the Synth
 ## 📄 Project Report
 
 📥 **Download Full Report:**
-[PIPLINED PROCESSOR REPORT(PDF)](Project_Report/PIPELINED PROCESSOR .pdf)
+[PIPLINED_PROCESSOR_REPORT(PDF)](Project_Report/PIPELINED_PROCESSOR_REPORT.pdf)
 Pipeline Processor Simulation Report (PDF)
 
 ## ✅ Results
